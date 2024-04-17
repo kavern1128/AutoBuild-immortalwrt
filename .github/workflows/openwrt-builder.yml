@@ -16,8 +16,8 @@ on:
         options: 
           - .config
           - redmi2100.config
-  schedule:
-   - cron: 0 1 1/7 * *
+#  schedule:
+#   - cron: 0 1 1/7 * *
 
 env:
   REPO_URL: https://github.com/immortalwrt/immortalwrt
